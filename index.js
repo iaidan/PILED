@@ -3,7 +3,6 @@
  * Created by Aidan Taylor - http://aidantaylor.net
  */
 
-var Rfr = require('rfr');
 var restify = require('restify'),
 fs = require('fs');
 
